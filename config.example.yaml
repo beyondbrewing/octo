@@ -1,0 +1,12 @@
+
+
+pebble:
+  database_dir: ./data
+
+chain:
+  chain_param: mainnet
+  max_peers: 8
+  enode:
+    - ls 
+    - la 
+    - lsa
